@@ -20,3 +20,4 @@ Insert your name and create a pull-request to the main repo.
 15. Sonis Sapkota
 16. Niroj Gamal
 17. Niwesh waiba
+18. Sujan Maharjan
