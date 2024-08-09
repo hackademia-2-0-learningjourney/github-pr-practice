@@ -29,3 +29,5 @@ Insert your name and create a pull-request to the main repo.
 21. Eligos Leyak
 22. Sudip Chaudhary
 23. Nishant
+24. Samir
+25. dikshen tamang
