@@ -16,7 +16,7 @@ Insert your name and create a pull-request to the main repo.
 11. Neerajan Subedi
 12. Nikitaa
 13. Yurika shrestha
-14. Niraj Pokharel
+14. Niraj Pokharel.
 15. Sonis Sapkota
 16. Niroj Gamal
 17. Niwesh waiba
